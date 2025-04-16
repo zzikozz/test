@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://wiflix.bio/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/zzikozz/zzArabicRepo",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "WiflixProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://codeberg.org/zzikozz/zzArabicRepo/raw/branch/main/compiled/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    }
+    ]
