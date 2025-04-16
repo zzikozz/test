@@ -3,6 +3,6 @@
     "description": "Test Repo",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://codeberg.org/zzikozz/zzArabicRepo/raw/branch/main/repo.json"
+        "https://raw.githubusercontent.com/zzikozz/test/refs/heads/main/plugins.json"
     ]
 }
