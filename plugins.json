@@ -1,0 +1,103 @@
+[
+    {
+        "iconUrl": "https://wiflix.bio/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/zzikozz/zzArabicRepo",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "WiflixProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://github.com/zzikozz/test/raw/refs/heads/main/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    },
+    {
+        "iconUrl": "https://wiflix.bio/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/zzikozz/zzArabicRepo",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FStreamzz",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://github.com/zzikozz/test/raw/refs/heads/main/FStreamzzProvider.cs3",
+        "name": "FStreamzzProvider"
+    },
+    {
+        "iconUrl": "https://wiflix.bio/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/zzikozz/zzArabicRepo",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FrenchStreamProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://github.com/zzikozz/test/raw/refs/heads/main/FrenchStreamProvider.cs3",
+        "name": "FrenchStreamProvider"
+    }
+    ,
+    {
+        "iconUrl": "https://wiflix.bio/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/zzikozz/zzArabicRepo",
+        "fileSize": 26169,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "ExampleProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://github.com/zzikozz/test/raw/refs/heads/main/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    },
+    {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://monstream.blue/&size=256",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/zzikozz/frenchCS/",
+    "fileSize": 0,
+    "status": 0,
+    "language": "fr",
+    "authors": [
+        "zzikozz"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "MonStreamProvider",
+    "description": "MonStream - site exclusif de streaming Francophone où 95% de films et series en streaming sont dispo en qualité HD, en VF et VOSTFR et gratuitement.",
+    "url": "https://codeberg.org/zzikozz/frencharchive/raw/branch/test/compiled/MonStreamProvider.cs3",
+    "name": "MonStreamProvider"
+}
+]
