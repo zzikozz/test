@@ -99,5 +99,25 @@
     "description": "MonStream - site exclusif de streaming Francophone où 95% de films et series en streaming sont dispo en qualité HD, en VF et VOSTFR et gratuitement.",
     "url": "https://github.com/zzikozz/test/raw/refs/heads/main/MonStreamProvider.cs3",
     "name": "MonStreamProvider"
+},
+    {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://monstream.blue/&size=256",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/zzikozz/frenchCS/",
+    "fileSize": 12000,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+        "zzikozz"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "UnjourUnFilmProvider",
+    "description": "MonStream - site exclusif de streaming Francophone où 95% de films et series en streaming sont dispo en qualité HD, en VF et VOSTFR et gratuitement.",
+    "url": "https://github.com/zzikozz/test/raw/refs/heads/main/UnjourUnFilmProvider.cs3",
+    "name": "UnjourUnFilmProvider"
 }
 ]
