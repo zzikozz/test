@@ -119,5 +119,25 @@
     "description": "MonStream - site exclusif de streaming Francophone où 95% de films et series en streaming sont dispo en qualité HD, en VF et VOSTFR et gratuitement.",
     "url": "https://github.com/zzikozz/test/raw/refs/heads/main/UnjourUnFilmProvider.cs3",
     "name": "UnjourUnFilmProvider"
+},
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://wookafr.org&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/zzikozz/frenchCS",
+    "fileSize": 35874,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+        "zzikozz"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 7,
+    "internalName": "WookaFRProvider",
+    "description": "WookaFR est le meilleur site de streaming gratuit. Regardez WookaFR pour voir vos films, séries, animés en illimités.",
+    "url": "https://github.com/zzikozz/test/raw/refs/heads/main/WookaFRProvider.cs3",
+    "name": "WookaFRProvider"
 }
 ]
